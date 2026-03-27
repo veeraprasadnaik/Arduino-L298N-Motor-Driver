@@ -1,4 +1,4 @@
- 🤖 Arduino Based L298N H-Bridge Motor Driver Circuit
+  🤖 Arduino Based L298N H-Bridge Motor Driver Circuit
 📖 Description
 
 This project demonstrates how to control a DC motor using an Arduino and the L298N H-Bridge motor driver module. The L298N allows the Arduino to control the direction and speed of the motor, which is widely used in robotics and automation systems.
